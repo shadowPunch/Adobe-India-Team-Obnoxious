@@ -1,0 +1,138 @@
+{
+    "metadata": {
+        "input_documents": [
+            "51.pdf"
+        ],
+        "persona": {
+            "role": "Exercise Scientist"
+        },
+        "job_to_be_done": {
+            "task": "Which weight category lifters are the most healthy."
+        },
+        "processing_timestamp": "2025-07-28T18:08:48.353510Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "51.pdf",
+            "page_number": 1,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 1
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 2
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 4,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 3
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 2,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 4
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 5
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 4,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 6
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 7
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 3,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 8
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 4,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 9
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "section_title": "A Study on Selected Physiological and Anthropometric Variables among All Indian Inter-University Men Power lifters at Active Competition State",
+            "importance_rank": 10
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "51.pdf",
+            "page_number": 1,
+            "refined_text": "Keywords---anthropometry, physiological, power lifter, weight class. Powerlifting competition includes 3 major events namely the squat, bench press, and deadlift exercises.",
+            "importance_rank": 1
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "refined_text": "an elite power lifter: a case study. Weight on the bar vs. weight on the scale:",
+            "importance_rank": 2
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 4,
+            "refined_text": "Conclusion Based on results and discussion it was clear that the powerlifter from 90kg, 95kg, 100kg, and 110kg category is superior to the lower category in terms of selected physiological and anthropometrical variables like systolic blood pressure, diastolic blood pressure, resting heart rate, height, weight, BMI, body fat percentage and body density (Keogh et al., 2007). Based on the finding we can say that the above factors (physiological and anthropometrical) contribute to the powerlifter's heavy weightlifting capabilities, when compared to light and middleweight categories powerlifters (Brechue & Abe, 2002).",
+            "importance_rank": 3
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 2,
+            "refined_text": "Although such impressive displays of strength may be multi-factorial, it has been proposed that powerlifters have specific anthropometric characteristics that are advantageous to the expression of maximal strength (Bale & Williams, 1987; Brechue & Abe, 2002; Mayhew et al., 1993). All the selected powerlifters were measured on physiological and anthropometric parameters (Chiari, et al., 2002).",
+            "importance_rank": 4
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "refined_text": "development and lean body weight in body builders and weight lifters. Medicine and science in sports and exercise, 12(5), 340-344.",
+            "importance_rank": 5
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 4,
+            "refined_text": "muscle architecture in powerlifting performance. European journal of applied physiology, 86(4), 327-336.",
+            "importance_rank": 6
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "refined_text": "Relationships of body dimensions to strength performance in novice adolescent male powerlifters. Pediatric Exercise Science, 5(4), 347-356.",
+            "importance_rank": 7
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 3,
+            "refined_text": "Table 1 Selected physiological variables among different male powerlifting categories",
+            "importance_rank": 8
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 4,
+            "refined_text": "lifters. Journal of sports medicine and physical fitness, 27(2), 191-196.",
+            "importance_rank": 9
+        },
+        {
+            "document": "51.pdf",
+            "page_number": 5,
+            "refined_text": "Body image, 6(2), 90-96. https://doi.org/10.1016/j.bodyim.2008.11.004 Marchocka, M., & Smuk, E. (1984). Analysis of body build of senior weightlifters",
+            "importance_rank": 10
+        }
+    ]
+}

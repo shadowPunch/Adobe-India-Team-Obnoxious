@@ -1,0 +1,19 @@
+
+numpy
+torch
+
+# PDF processing
+PyMuPDF
+
+# Lexical search
+rank_bm25
+
+# NLP and model handling
+# sentence-transformers is needed for tokenizer and base classes
+sentence-transformers
+# optimum[onnxruntime] provides ONNX Runtime backend and optimization tools
+optimum[onnxruntime]
+# transformers is a core dependency for the above packages
+transformers
+# NLTK for sentence tokenization
+nltk

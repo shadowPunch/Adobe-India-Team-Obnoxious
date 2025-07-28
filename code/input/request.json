@@ -1,0 +1,19 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "exercise",
+        "description": "Exercise research paper"
+    },
+    "documents": [
+        {
+            "filename": "51.pdf",
+            "title": "Scopus"
+        }
+    ],
+    "persona": {
+        "role": "Exercise Scientist"
+    },
+    "job_to_be_done": {
+        "task": "Which weight category lifters are the most healthy."
+    }
+}
