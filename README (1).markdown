@@ -119,7 +119,7 @@ cd round1a
 
 **Build the Docker Image**:
 ```bash
-docker build --platform linux/amd64 -t persona-solver-round1a:latest .
+docker build --platform linux/amd64 -t structurer-round1a:latest .
 ```
 
 **Run the Container**:
