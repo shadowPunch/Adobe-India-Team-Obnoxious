@@ -128,7 +128,7 @@ docker run --rm \
   -v "$(pwd)/input:/app/input" \
   -v "$(pwd)/output:/app/output" \
   --network none \
-  persona-solver-round1a:latest
+  structurer-round1a:latest
 ```
 
 ### Round 1B
