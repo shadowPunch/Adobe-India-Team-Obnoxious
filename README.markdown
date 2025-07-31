@@ -1,10 +1,9 @@
 ## Project Overview
-This repository contains the complete source code and documentation for a high-performance system designed for the **Adobe India Hackathon 2025, Round 1B: Persona-Driven Document Intelligence**. The solution implements an end-to-end pipeline that ingests a collection of PDF documents, analyzes them based on a specified user persona and job-to-be-done, and extracts a ranked list of the most relevant sections.
+This project implements a high-performance Document digester and parser system. The solution implements an end-to-end pipeline that ingests a collection of PDF documents, analyzes them based on a specified user persona and job-to-be-done, and extracts a ranked list of the most relevant sections.
 
-The system is architected to run efficiently in a resource-constrained, offline, CPU-only Docker environment, adhering to all competition requirements. Additionally, the repository includes a separate solution for Round 1A, which addresses a related but independent part of the problem, housed in its own directory with a similar structure.
+It is architected to run efficiently in a resource-constrained, offline, CPU-only environment.
 
-![graphviz (1)](https://github.com/user-attachments/assets/f63a41b1-af7c-487f-b0d2-56823acbbe7f)# Document Distillation pipeline for resource constrained Environment
-
+![graphviz (1)](https://github.com/user-attachments/assets/f63a41b1-af7c-487f-b0d2-56823acbbe7f)
 
 ## Table of Contents
 - [System Architecture](#system-architecture)
