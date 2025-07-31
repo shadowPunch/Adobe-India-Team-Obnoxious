@@ -1,4 +1,4 @@
-# Persona-Driven Document Intelligence Engine
+# Document Distillation pipeline for resource constrained Environment
 
 ## Project Overview
 This repository contains the complete source code and documentation for a high-performance system designed for the **Adobe India Hackathon 2025, Round 1B: Persona-Driven Document Intelligence**. The solution implements an end-to-end pipeline that ingests a collection of PDF documents, analyzes them based on a specified user persona and job-to-be-done, and extracts a ranked list of the most relevant sections.
